@@ -1,0 +1,1 @@
+module.exports = 'Hi React from  Module 1';
